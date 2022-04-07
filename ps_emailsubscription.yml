@@ -1,0 +1,36 @@
+v1.0.1:
+    min: '1.7'
+    max: null
+v1.1.0:
+    min: '1.7'
+    max: null
+v1.1.1:
+    min: '1.7'
+    max: null
+v1.1.2:
+    min: '1.7'
+    max: null
+v1.1.6:
+    min: 1.7.0.0
+    max: null
+v2.1.0:
+    min: 1.7.1.0
+    max: null
+v2.2.0:
+    min: 1.7.1.0
+    max: null
+v2.3.0:
+    min: 1.7.1.0
+    max: null
+v2.5.0:
+    min: 1.7.1.0
+    max: null
+v2.6.0:
+    min: 1.7.1.0
+    max: null
+v2.6.1:
+    min: 1.7.1.0
+    max: null
+v2.7.0:
+    min: 1.7.1.0
+    max: null
