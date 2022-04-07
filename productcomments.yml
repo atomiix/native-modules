@@ -1,0 +1,30 @@
+v3.6.0:
+    min: '1.6'
+    max: 1.6.99.99
+v3.6.1:
+    min: '1.6'
+    max: 1.6.99.99
+v4.0.0:
+    min: 1.7.6
+    max: null
+v4.0.1:
+    min: 1.7.6
+    max: null
+v4.1.0:
+    min: 1.7.6
+    max: null
+v4.2.0:
+    min: 1.7.6
+    max: null
+v4.2.1:
+    min: 1.7.6
+    max: null
+v4.2.2:
+    min: 1.7.6
+    max: null
+v5.0.0:
+    min: 1.7.6
+    max: null
+v5.0.1:
+    min: 1.7.6
+    max: null
