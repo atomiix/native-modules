@@ -1,0 +1,24 @@
+QA:
+    min: '1.7'
+    max: null
+v1.0.0:
+    min: null
+    max: null
+v1.0.10:
+    min: '1.7'
+    max: null
+v1.0.8:
+    min: '1.7'
+    max: null
+v1.0.9:
+    min: '1.7'
+    max: null
+v1.1.0:
+    min: '1.7'
+    max: null
+v1.2.0:
+    min: '1.7'
+    max: null
+v1.2.1:
+    min: '1.7'
+    max: null
