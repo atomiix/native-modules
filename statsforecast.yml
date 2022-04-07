@@ -1,0 +1,15 @@
+v1.4.1:
+    min: '1.6'
+    max: 1.7.0.99
+v2.0.1:
+    min: 1.7.1.0
+    max: null
+v2.0.2:
+    min: 1.7.1.0
+    max: null
+v2.0.3:
+    min: 1.7.1.0
+    max: null
+v2.0.4:
+    min: 1.7.6.0
+    max: null
