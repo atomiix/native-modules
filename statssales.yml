@@ -4,3 +4,6 @@ v1.3.1:
 v2.0.0:
     min: 1.7.1.0
     max: null
+v2.1.0:
+    min: 1.7.6.0
+    max: null
