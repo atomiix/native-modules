@@ -1,6 +1,9 @@
 16-to-17-beta-1:
     min: null
     max: null
+4.14.1:
+    min: 1.6.0.0
+    max: null
 v1.6.8:
     min: null
     max: null
