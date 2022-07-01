@@ -22,3 +22,6 @@ v1.4.0:
 v1.4.1:
     min: '1.7'
     max: null
+v1.4.2:
+    min: '1.7'
+    max: null
